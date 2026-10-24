@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+work/
+build/
+dist/
+*.spec
+*.log
+settings.json
+素材库/
+*.sqlite3*
+.env
+.env.*
+*.zip
